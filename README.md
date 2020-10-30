@@ -45,4 +45,4 @@ npm Test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at dnickle.cet@gmail.com. You can find more of my work at [AnthonyPihonak](https://github.com/Pihonak18/).
+If you have any questions about the repo, open an issue or contact me directly at pihonak18@gmail.com. You can find more of my work at [AnthonyPihonak](https://github.com/Pihonak18/).
