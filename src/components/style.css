@@ -1,0 +1,12 @@
+.wrapper {
+    background-color: lightblue;
+}
+.searchbox {
+    margin-bottom: -75px;
+    position: center;
+    margin-left: 865px;
+}
+.header {
+    color: blue;
+    font-size: 100px;
+}
