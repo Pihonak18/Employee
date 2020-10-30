@@ -1,4 +1,4 @@
-# tDNUserDirectory
+# Pihonak18Directory
 
 # React User Directory
 
@@ -32,7 +32,7 @@ Use the search by to search by name. Click the column names to sort by category.
 
 ## Contributing
 
-Datesta Nickle
+Anthony Pihonak
 
 ## Tests
 
@@ -45,4 +45,4 @@ npm Test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at dnickle.cet@gmail.com. You can find more of my work at [TestadeNevill](https://github.com/TestadeNevill/).
+If you have any questions about the repo, open an issue or contact me directly at dnickle.cet@gmail.com. You can find more of my work at [AnthonyPihonak](https://github.com/Pihonak18/).
